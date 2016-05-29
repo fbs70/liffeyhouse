@@ -1,40 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <title>Liffey House</title>
+    <description>Our House in Austin,TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 May 2016 16:14:47 -0500</pubDate>
-    <lastBuildDate>Sat, 28 May 2016 16:14:47 -0500</lastBuildDate>
+    <pubDate>Sun, 29 May 2016 08:04:08 -0500</pubDate>
+    <lastBuildDate>Sun, 29 May 2016 08:04:08 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>How to make a Plant Stadium</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/stadium/P4160185-e1303131772457.jpg&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Here are the supplies&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;2″x6″x10′ pressure treated wood, cut in half to have 2″x6″x5′&lt;/li&gt;
+  &lt;li&gt;2 – pressure treated 4 tread stairs&lt;/li&gt;
+  &lt;li&gt;6 – 2″x4″x8′ kiln dry studs&lt;/li&gt;
+  &lt;li&gt;3 inch external screws, 1.5 in external screws&lt;/li&gt;
+  &lt;li&gt;2 &lt;a href=&quot;{http://www.strongtie.com/hurricanetiesforplatedtruss_trusstiedowns/h-tsp_productgroup_wcc/p/h.tsp}&quot;&gt;Hurricane Ties&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h1 id=&quot;step-1&quot;&gt;Step 1&lt;/h1&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/stadium/P1010027.jpg&quot; alt=&quot;Step 1 screenshot&quot; /&gt;&lt;/p&gt;
 
+&lt;h1 id=&quot;step-2&quot;&gt;Step 2&lt;/h1&gt;
+
+&lt;p&gt;Attach 2″x6″x5′ stud between upper and lower fence supports&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/stadium/P4140028.jpg&quot; alt=&quot;Step 2 screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;step-3&quot;&gt;Step 3&lt;/h1&gt;
+
+&lt;p&gt;Using hurricane ties attach pressure treated stair treads to 2″x6″x5′ studs. Use a 2″x4x8′ stud to level the stair treads before securing them to the 2″x6″x5′ studs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/stadium/P4140029.jpg&quot; alt=&quot;Step 3 screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;step-4&quot;&gt;Step 4&lt;/h1&gt;
+
+&lt;p&gt;Once the stair treads have been leveled and secured, lay two 2″x4″x8′ pre treads.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/stadium/P4140030.jpg&quot; alt=&quot;Step 3 screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;step-5&quot;&gt;Step 5&lt;/h1&gt;
+
+&lt;p&gt;Place the rest of the 2″x4″x8′ studs on stair treads.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/stadium/P4140031.jpg&quot; alt=&quot;Step 5 screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;final&quot;&gt;Final&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/stadium/P4140032.jpg&quot; alt=&quot;Final screenshot&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 28 May 2016 13:50:56 -0500</pubDate>
-        <link>/jekyll/update/2016/05/28/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2016/05/28/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 11 Apr 2012 19:00:00 -0500</pubDate>
+        <link>/landscaping/projects/diy/2012/04/11/plant-stadium/</link>
+        <guid isPermaLink="true">/landscaping/projects/diy/2012/04/11/plant-stadium/</guid>
         
         
-        <category>jekyll</category>
+        <category>Landscaping</category>
         
-        <category>update</category>
+        <category>Projects</category>
+        
+        <category>DIY</category>
+        
+      </item>
+    
+      <item>
+        <title>First Planter</title>
+        <description>&lt;p&gt;This is the first planter that was created by Mike N. and myself.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/first-planter/P7250025.jpg&quot; alt=&quot;screenshot1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/first-planter/P7250024.jpg&quot; alt=&quot;screenshot2&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Jul 2009 19:00:00 -0500</pubDate>
+        <link>/landscaping/projects/diy/2009/07/28/first-planter/</link>
+        <guid isPermaLink="true">/landscaping/projects/diy/2009/07/28/first-planter/</guid>
+        
+        <category>cedar,</category>
+        
+        <category>planter</category>
+        
+        
+        <category>Landscaping</category>
+        
+        <category>Projects</category>
+        
+        <category>DIY</category>
         
       </item>
     
