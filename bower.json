@@ -1,0 +1,20 @@
+{
+  "name": "liffeyhouse",
+  "homepage": "https://github.com/fbs70/liffeyhouse",
+  "authors": [
+    "Blair Shotlow <blair.shotlow@gmail.com>"
+  ],
+  "description": "Our House in Austin,TX",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
