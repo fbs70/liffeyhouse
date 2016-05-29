@@ -5,8 +5,8 @@
     <description>Our House in Austin,TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 May 2016 08:07:54 -0500</pubDate>
-    <lastBuildDate>Sun, 29 May 2016 08:07:54 -0500</lastBuildDate>
+    <pubDate>Sun, 29 May 2016 09:06:58 -0500</pubDate>
+    <lastBuildDate>Sun, 29 May 2016 09:06:58 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -59,6 +59,8 @@
         <link>/landscaping/projects/diy/2012/04/11/plant-stadium/</link>
         <guid isPermaLink="true">/landscaping/projects/diy/2012/04/11/plant-stadium/</guid>
         
+        <category>backyard</category>
+        
         
         <category>Landscaping</category>
         
@@ -72,15 +74,16 @@
         <title>First Planter</title>
         <description>&lt;p&gt;This is the first planter that was created by Mike N. and myself.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/first-planter/P7250025.jpg&quot; alt=&quot;screenshot1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/first-planter/P7250024.jpg&quot; alt=&quot;screenshot2&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;iis-slider&quot; id=&quot;slider_jthkb&quot;&gt;
+&lt;img src=&quot;/assets/images/first-planter/P7250025.jpg&quot; alt=&quot;screenshot1&quot; /&gt;
+  &lt;img src=&quot;/assets/images/first-planter/P7250024.jpg&quot; alt=&quot;screenshot2&quot; /&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Tue, 28 Jul 2009 19:00:00 -0500</pubDate>
         <link>/landscaping/projects/diy/2009/07/28/first-planter/</link>
         <guid isPermaLink="true">/landscaping/projects/diy/2009/07/28/first-planter/</guid>
         
-        <category>cedar,</category>
+        <category>cedar</category>
         
         <category>planter</category>
         

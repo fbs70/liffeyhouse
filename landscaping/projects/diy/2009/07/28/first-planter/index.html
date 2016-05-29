@@ -10,6 +10,10 @@
   <meta name="description" content="This is the first planter that was created by Mike N. and myself.">
 
   <link rel="stylesheet" href="/css/main.css">
+  <!-- Slider CSS -->
+  <link rel="stylesheet" href="/assets/css/ideal-image-slider.css">
+  <link rel="stylesheet" href="/assets/css/themes/default.css">
+
   <link rel="canonical" href="/landscaping/projects/diy/2009/07/28/first-planter/">
   <link rel="alternate" type="application/rss+xml" title="Liffey House" href="/feed.xml">
 </head>
@@ -66,9 +70,10 @@
   <div class="post-content" itemprop="articleBody">
     <p>This is the first planter that was created by Mike N. and myself.</p>
 
-<p><img src="/assets/images/first-planter/P7250025.jpg" alt="screenshot1" /></p>
-
-<p><img src="/assets/images/first-planter/P7250024.jpg" alt="screenshot2" /></p>
+<div class="iis-slider" id="slider_jthkb">
+<img src="/assets/images/first-planter/P7250025.jpg" alt="screenshot1" />
+  <img src="/assets/images/first-planter/P7250024.jpg" alt="screenshot2" />
+</div>
 
   </div>
 
@@ -109,6 +114,14 @@
 </footer>
 
 
+    <!-- Slider -->
+    <script src="/assets/js/ideal-image-slider.min.js"></script>
+    <!-- Sliders on pages -->
+    
+      <script>var slider = new IdealImageSlider.Slider({selector:'#slider_jthkb',height:480});slider.addCaptions();slider.start();</script>
+    
+    <!-- Sliders on indexes -->
+    
   </body>
 
 </html>
