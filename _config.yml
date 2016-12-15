@@ -11,18 +11,21 @@ title: Liffey House
 description: Our House in Austin,TX
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  
+twitter_username:
+github_username:
 
 permalink: pretty
 #permalink: /blog/:year/:month/:day/:title
+
+#Ideal Image Slider
+slider_array: []
 
 # Build settings
 markdown: kramdown
 
 include:
   - .nojekyll
-  
+
 exclude:
   - "Rakefile"
   - "Gruntfile.coffee"
@@ -30,3 +33,6 @@ exclude:
   - "package.json"
   - "bower_components"
   - "bower.json"
+
+gems:
+  - jemoji

@@ -2,8 +2,14 @@
 layout: post
 title: How to make a Plant Stadium
 date: 2012-04-12T00:00:00.000Z
-categories: Landscaping Projects DIY
+categories:
+  - Landscaping
+  - Projects
+  - DIY
 author: Blair
+tags:
+  - backyard
+published: true
 ---
 
 ![My helpful screenshot](/assets/images/stadium/P4160185-e1303131772457.jpg)

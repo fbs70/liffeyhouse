@@ -15,6 +15,18 @@
 
     {% include footer.html %}
 
+    <!-- Slider -->
+    <script src="{{ site.baseurl }}/assets/js/ideal-image-slider.min.js"></script>
+    <!-- Sliders on pages -->
+    {% for script in page.slider_scripts %}
+      {{ script }}
+    {% endfor %}
+    <!-- Sliders on indexes -->
+    {% for post in paginator.posts %}
+      {% for script in post.slider_scripts %}
+        {{ script }}
+      {% endfor %}
+    {% endfor %}
   </body>
 
 </html>
