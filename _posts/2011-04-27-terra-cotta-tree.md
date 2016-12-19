@@ -12,4 +12,4 @@ categories:
 ---
 This is our terra cotta tree<figure id="attachment_291" style="width: 150px" class="wp-caption alignnone">
 
-[<img class="size-thumbnail wp-image-291" title="Terra cotta tree" src="http://liffeyhouse.shotlow.com/wp-content/uploads/2011/04/IMG00056-20110425-1734-150x150.jpg" alt="Terra cotta tree" width="150" height="150" />](vendor/img/uploads/2011/04/IMG00056-20110425-1734-e1303913664961.jpg)<figcaption class="wp-caption-text">Terra cotta tree</figcaption></figure>
+[<img class="size-thumbnail wp-image-291" title="Terra cotta tree" src="http://liffeyhouse.shotlow.com/wp-content/uploads/2011/04/IMG00056-20110425-1734-150x150.jpg" alt="Terra cotta tree" width="150" height="150" />](/vendor/img/uploads/2011/04/IMG00056-20110425-1734-e1303913664961.jpg)<figcaption class="wp-caption-text">Terra cotta tree</figcaption></figure>

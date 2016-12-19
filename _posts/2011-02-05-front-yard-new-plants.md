@@ -11,8 +11,8 @@ categories:
 ---
 Here are some of the plants that just planted in the front yard
 
-[<img src="vendor/img/uploads/2011/04/20110405-100705.jpg" alt="20110405-100705.jpg" class="alignnone size-full" />](vendor/img/uploads/2011/04/20110405-100705.jpg)
+[<img src="/vendor/img/uploads/2011/04/20110405-100705.jpg" alt="20110405-100705.jpg" class="alignnone size-full" />](/vendor/img/uploads/2011/04/20110405-100705.jpg)
 
-[<img src="vendor/img/uploads/2011/04/20110405-100720.jpg" alt="20110405-100720.jpg" class="alignnone size-full" />](vendor/img/uploads/2011/04/20110405-100720.jpg)
+[<img src="/vendor/img/uploads/2011/04/20110405-100720.jpg" alt="20110405-100720.jpg" class="alignnone size-full" />](/vendor/img/uploads/2011/04/20110405-100720.jpg)
 
-[<img src="vendor/img/uploads/2011/04/20110405-100750.jpg" alt="20110405-100750.jpg" class="alignnone size-full" />](vendor/img/uploads/2011/04/20110405-100750.jpg)
+[<img src="/vendor/img/uploads/2011/04/20110405-100750.jpg" alt="20110405-100750.jpg" class="alignnone size-full" />](/vendor/img/uploads/2011/04/20110405-100750.jpg)
