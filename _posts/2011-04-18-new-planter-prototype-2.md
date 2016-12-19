@@ -5,13 +5,12 @@ date: 2011-04-18T10:48:26+00:00
 author: shotlowb
 layout: post
 guid: http://liffeyhouse.shotlow.com/?p=246
-permalink: /?p=246
+#permalink: /?p=246
 categories:
   - Back Yard
   - Landscaping
   - Planters
   - Projects
-  - Uncategorized
 tags:
   - planter
 ---

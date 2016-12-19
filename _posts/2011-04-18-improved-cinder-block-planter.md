@@ -5,11 +5,10 @@ date: 2011-04-18T10:43:45+00:00
 author: shotlowb
 layout: post
 guid: http://liffeyhouse.shotlow.com/?p=228
-permalink: /?p=228
+#permalink: /?p=228
 categories:
   - Planters
   - Projects
-  - Uncategorized
 tags:
   - cinder block
   - creeping jenny

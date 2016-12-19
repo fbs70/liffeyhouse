@@ -5,10 +5,9 @@ date: 2011-04-18T15:09:25+00:00
 author: shotlowb
 layout: post
 guid: http://liffeyhouse.shotlow.com/?p=255
-permalink: /?p=255
+#permalink: /?p=255
 categories:
   - Gardening
-  - Uncategorized
 tags:
   - cherry tomatoes
   - cucumber

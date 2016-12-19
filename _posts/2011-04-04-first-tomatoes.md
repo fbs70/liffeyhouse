@@ -5,10 +5,9 @@ date: 2011-04-04T17:03:36+00:00
 author: shotlowb
 layout: post
 guid: http://liffeyhouse.shotlow.com/?p=12
-permalink: /?p=12
+#permalink: /?p=12
 categories:
   - Gardening
-  - Uncategorized
 tags:
   - tomatoes
 ---

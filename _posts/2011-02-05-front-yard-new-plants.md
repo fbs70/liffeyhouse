@@ -5,10 +5,9 @@ date: 2011-02-05T19:42:42+00:00
 author: shotlowb
 layout: post
 guid: http://liffeyhouse.shotlow.com/?p=108
-permalink: /?p=108
+#permalink: /?p=108
 categories:
   - General
-  - Uncategorized
 ---
 Here are some of the plants that just planted in the front yard
 

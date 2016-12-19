@@ -5,11 +5,10 @@ date: 2011-04-18T10:47:05+00:00
 author: shotlowb
 layout: post
 guid: http://liffeyhouse.shotlow.com/?p=248
-permalink: /?p=248
+#permalink: /?p=248
 categories:
   - Planters
   - Projects
-  - Uncategorized
 tags:
   - planter
 ---

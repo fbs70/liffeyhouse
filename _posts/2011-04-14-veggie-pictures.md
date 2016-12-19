@@ -5,10 +5,9 @@ date: 2011-04-14T10:48:26+00:00
 author: shotlowb
 layout: post
 guid: http://liffeyhouse.shotlow.com/?p=179
-permalink: /?p=179
+#permalink: /?p=179
 categories:
   - Gardening
-  - Uncategorized
 tags:
   - Banana Peppers
   - Carrots

@@ -5,10 +5,9 @@ date: 2011-11-05T20:16:05+00:00
 author: shotlowb
 layout: post
 guid: http://liffeyhouse.shotlow.com/general/matte-chandelier/
-permalink: /?p=340
+#permalink: /?p=340
 categories:
   - Projects
-  - Uncategorized
 tags:
   - black matte
   - Chandelier

@@ -5,11 +5,10 @@ date: 2011-04-27T09:45:39+00:00
 author: shotlowb
 layout: post
 guid: http://liffeyhouse.shotlow.com/?p=296
-permalink: /?p=296
+#permalink: /?p=296
 categories:
   - Back Yard
   - Landscaping
-  - Uncategorized
 ---
 This is our terra cotta tree<figure id="attachment_291" style="width: 150px" class="wp-caption alignnone">
 
