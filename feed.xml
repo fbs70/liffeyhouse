@@ -5,8 +5,8 @@
     <description>Our House in Austin,TX</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Dec 2016 15:05:04 -0600</pubDate>
-    <lastBuildDate>Mon, 19 Dec 2016 15:05:04 -0600</lastBuildDate>
+    <pubDate>Mon, 19 Dec 2016 15:08:39 -0600</pubDate>
+    <lastBuildDate>Mon, 19 Dec 2016 15:08:39 -0600</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -224,11 +224,11 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 11 Apr 2012 14:28:55 -0500</pubDate>
-        <link>/gardening%23/2012/04/11/tomatoes/</link>
-        <guid isPermaLink="true">/gardening%23/2012/04/11/tomatoes/</guid>
+        <link>/gardening/2012/04/11/tomatoes/</link>
+        <guid isPermaLink="true">/gardening/2012/04/11/tomatoes/</guid>
         
         
-        <category>Gardening#</category>
+        <category>Gardening</category>
         
       </item>
     
